@@ -17,6 +17,6 @@ Font:
 google font LATO
 
 images:
-They are in the pictures folders , others are been fetched from another website
+They are in the pictures folders , others are been fetched from another website 
 
 
